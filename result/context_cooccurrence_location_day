@@ -1,0 +1,112 @@
+Negative numbers / Positive numbers =  4.391103586270586
+[0]	Training-auc:0.651957	Evaluation-auc:0.649815
+[1]	Training-auc:0.668167	Evaluation-auc:0.666259
+[2]	Training-auc:0.692847	Evaluation-auc:0.68982
+[3]	Training-auc:0.709489	Evaluation-auc:0.707045
+[4]	Training-auc:0.72733	Evaluation-auc:0.725582
+[5]	Training-auc:0.744745	Evaluation-auc:0.742771
+[6]	Training-auc:0.756915	Evaluation-auc:0.753422
+[7]	Training-auc:0.764172	Evaluation-auc:0.762561
+[8]	Training-auc:0.768792	Evaluation-auc:0.765969
+[9]	Training-auc:0.774787	Evaluation-auc:0.772568
+[10]	Training-auc:0.787134	Evaluation-auc:0.783722
+[11]	Training-auc:0.793543	Evaluation-auc:0.790148
+[12]	Training-auc:0.797599	Evaluation-auc:0.79367
+[13]	Training-auc:0.801402	Evaluation-auc:0.797022
+[14]	Training-auc:0.804056	Evaluation-auc:0.798719
+[15]	Training-auc:0.807266	Evaluation-auc:0.801655
+[16]	Training-auc:0.814297	Evaluation-auc:0.808672
+[17]	Training-auc:0.81871	Evaluation-auc:0.813387
+[18]	Training-auc:0.819926	Evaluation-auc:0.814533
+[19]	Training-auc:0.824983	Evaluation-auc:0.819325
+[20]	Training-auc:0.828917	Evaluation-auc:0.823473
+[21]	Training-auc:0.834585	Evaluation-auc:0.828726
+[22]	Training-auc:0.838539	Evaluation-auc:0.832872
+[23]	Training-auc:0.841902	Evaluation-auc:0.836173
+[24]	Training-auc:0.843463	Evaluation-auc:0.838415
+[25]	Training-auc:0.84412	Evaluation-auc:0.838187
+[26]	Training-auc:0.845937	Evaluation-auc:0.841132
+[27]	Training-auc:0.847039	Evaluation-auc:0.842273
+[28]	Training-auc:0.851973	Evaluation-auc:0.847474
+[29]	Training-auc:0.85487	Evaluation-auc:0.851208
+[30]	Training-auc:0.857954	Evaluation-auc:0.854447
+[31]	Training-auc:0.860205	Evaluation-auc:0.856173
+[32]	Training-auc:0.860828	Evaluation-auc:0.856997
+[33]	Training-auc:0.862015	Evaluation-auc:0.858059
+[34]	Training-auc:0.862456	Evaluation-auc:0.858022
+[35]	Training-auc:0.862628	Evaluation-auc:0.85811
+[36]	Training-auc:0.864715	Evaluation-auc:0.860549
+[37]	Training-auc:0.866669	Evaluation-auc:0.862678
+[38]	Training-auc:0.869535	Evaluation-auc:0.865298
+[39]	Training-auc:0.871816	Evaluation-auc:0.868247
+[40]	Training-auc:0.873448	Evaluation-auc:0.869455
+[41]	Training-auc:0.873903	Evaluation-auc:0.869953
+[42]	Training-auc:0.874884	Evaluation-auc:0.87096
+[43]	Training-auc:0.875244	Evaluation-auc:0.871099
+[44]	Training-auc:0.876686	Evaluation-auc:0.872282
+[45]	Training-auc:0.878283	Evaluation-auc:0.873297
+[46]	Training-auc:0.87943	Evaluation-auc:0.874475
+[47]	Training-auc:0.88112	Evaluation-auc:0.875628
+[48]	Training-auc:0.882122	Evaluation-auc:0.876944
+[49]	Training-auc:0.883896	Evaluation-auc:0.878966
+[50]	Training-auc:0.884708	Evaluation-auc:0.879404
+[51]	Training-auc:0.886183	Evaluation-auc:0.881054
+[52]	Training-auc:0.888592	Evaluation-auc:0.883316
+[53]	Training-auc:0.889729	Evaluation-auc:0.884186
+[54]	Training-auc:0.890091	Evaluation-auc:0.88435
+[55]	Training-auc:0.891397	Evaluation-auc:0.885567
+[56]	Training-auc:0.893099	Evaluation-auc:0.887344
+[57]	Training-auc:0.894286	Evaluation-auc:0.88837
+[58]	Training-auc:0.895701	Evaluation-auc:0.889713
+[59]	Training-auc:0.897303	Evaluation-auc:0.890937
+[60]	Training-auc:0.8981	Evaluation-auc:0.891395
+[61]	Training-auc:0.898967	Evaluation-auc:0.892427
+[62]	Training-auc:0.899182	Evaluation-auc:0.892398
+[63]	Training-auc:0.900334	Evaluation-auc:0.893546
+[64]	Training-auc:0.901312	Evaluation-auc:0.894422
+[65]	Training-auc:0.90188	Evaluation-auc:0.895217
+[66]	Training-auc:0.902957	Evaluation-auc:0.896369
+[67]	Training-auc:0.904105	Evaluation-auc:0.897594
+[68]	Training-auc:0.905815	Evaluation-auc:0.899112
+[69]	Training-auc:0.906916	Evaluation-auc:0.900124
+[70]	Training-auc:0.907533	Evaluation-auc:0.900807
+[71]	Training-auc:0.908127	Evaluation-auc:0.90147
+[72]	Training-auc:0.908909	Evaluation-auc:0.902314
+[73]	Training-auc:0.910174	Evaluation-auc:0.903506
+[74]	Training-auc:0.911251	Evaluation-auc:0.904504
+[75]	Training-auc:0.912144	Evaluation-auc:0.90542
+[76]	Training-auc:0.912868	Evaluation-auc:0.906196
+[77]	Training-auc:0.91414	Evaluation-auc:0.907498
+[78]	Training-auc:0.915203	Evaluation-auc:0.908377
+[79]	Training-auc:0.915306	Evaluation-auc:0.908669
+[80]	Training-auc:0.915408	Evaluation-auc:0.908831
+[81]	Training-auc:0.915823	Evaluation-auc:0.909221
+[82]	Training-auc:0.917278	Evaluation-auc:0.910759
+[83]	Training-auc:0.918105	Evaluation-auc:0.911511
+[84]	Training-auc:0.919602	Evaluation-auc:0.912984
+[85]	Training-auc:0.919523	Evaluation-auc:0.912899
+[86]	Training-auc:0.920139	Evaluation-auc:0.913432
+[87]	Training-auc:0.920768	Evaluation-auc:0.914175
+[88]	Training-auc:0.921989	Evaluation-auc:0.915966
+[89]	Training-auc:0.922359	Evaluation-auc:0.916451
+[90]	Training-auc:0.922914	Evaluation-auc:0.917006
+[91]	Training-auc:0.923703	Evaluation-auc:0.917741
+[92]	Training-auc:0.924698	Evaluation-auc:0.918676
+[93]	Training-auc:0.925131	Evaluation-auc:0.918958
+[94]	Training-auc:0.925762	Evaluation-auc:0.919678
+[95]	Training-auc:0.926628	Evaluation-auc:0.920745
+[96]	Training-auc:0.927272	Evaluation-auc:0.921473
+[97]	Training-auc:0.927458	Evaluation-auc:0.92143
+[98]	Training-auc:0.927977	Evaluation-auc:0.921984
+[99]	Training-auc:0.929031	Evaluation-auc:0.923152
+AUC=	0.78161605218	PR-AUC=	0.794301678092
+Top 500	Precision: 0.879370	Recall: 0.348341
+Top 1000	Precision: 0.808173	Recall: 0.535545
+Top 1500	Precision: 0.745115	Recall: 0.646919
+Top 2000	Precision: 0.691507	Recall: 0.722749
+Top 2500	Precision: 0.655714	Recall: 0.804502
+Top 3000	Precision: 0.621159	Recall: 0.863744
+Top 3500	Precision: 0.587445	Recall: 0.904028
+Top 4000	Precision: 0.558500	Recall: 0.940758
+Top 4500	Precision: 0.531564	Recall: 0.969194
+Top 5000	Precision: 0.508440	Recall: 0.997630
