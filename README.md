@@ -1,7 +1,7 @@
 # 硕士小论文
 
 论文题目：Inferring Social Ties from Multi-view Spatiotemporal Co-occurrence 
-(CCF C类，第一作者，<a href="https://calxu.github.io/quote/paper_2018_apweb.pdf" target="_blank">论文PDF</a>)下载。
+(CCF C类，第一作者，<a href="https://calxu.github.io/quote/paper_2018_apweb.pdf" target="_blank">论文PDF</a>下载)。
 
 该仓库为论文的源码。
 
