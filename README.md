@@ -1,7 +1,8 @@
 # 硕士小论文
 
 论文题目：Inferring Social Ties from Multi-view Spatiotemporal Co-occurrence 
-(CCF C类，第一作者，<a href="https://calxu.github.io/quote/paper_2018_apweb.pdf" target="_blank">PDF</a>)
+(CCF C类，第一作者，<a href="https://calxu.github.io/quote/paper_2018_apweb.pdf" target="_blank">论文PDF</a>)下载。
+
 该仓库为论文的源码。
 
 
@@ -50,6 +51,15 @@
 * ./result ： 效果文件，可视化出PR曲线；
 
 
-## 参考文献
+## 论文引用
 
-1. **Caixu Xu** and RuiRui Bai. Inferring Social Ties from Multi-view Spatiotemporal Co-occurrence
+```
+@inproceedings{xu2018inferring,
+  title={Inferring social ties from multi-view spatiotemporal co-occurrence},
+  author={Xu, Caixu and Bai, Ruirui},
+  booktitle={Asia-Pacific Web (APWeb) and Web-Age Information Management (WAIM) Joint International Conference on Web and Big Data},
+  pages={378--392},
+  year={2018},
+  organization={Springer}
+}
+```
