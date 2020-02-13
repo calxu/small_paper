@@ -1,27 +1,29 @@
 # 硕士小论文
 
-论文题目：Inferring Social Ties from Multi-view Spatiotemporal Co-occurrence
+论文题目：Inferring Social Ties from Multi-view Spatiotemporal Co-occurrence 
+(CCF C类，第一作者，<a href="https://calxu.github.io/quote/paper_2018_apweb.pdf" target="_blank">PDF</a>)
+该仓库为论文的源码。
 
 
 ## 环境说明
 
-1. python3 环境
+1. python3 环境；
 
-2. 实验中 word2vec 是自行编译的，实验可以用gensim包取代
+2. 实验中 word2vec 是自行编译的，实验可以用gensim包取代；
 
-3. 实验中 LDA 是自行编译的，实验可以用gensim包取代
+3. 实验中 LDA 是自行编译的，实验可以用gensim包取代；
 
 
 ## 数据说明
 
-使用的开源数据，可到[数据源下载](https://snap.stanford.edu/data/)Brightkite和Gowalla数据集；
+使用的开源数据，可到 [Stanford官网](https://snap.stanford.edu/data/) 下载Brightkite和Gowalla数据集。
 
 
 ## 目录结构
 
 下面对实验目录结构作以下说明
 
-* ./asset ：小论文原文，可Google检索；
+* ./asset ：小论文原文，可 Google Scholar 检索到；
 
 * ./src ：源码文件；
     
@@ -45,9 +47,9 @@
 
         * ./src/4_feature_merge.py ：特征融合进行预测；
 
-* ./result ： 效果文件，可视化PR曲线；
+* ./result ： 效果文件，可视化出PR曲线；
 
 
 ## 参考文献
 
-1. Inferring Social Ties from Multi-view Spatiotemporal Co-occurrence
+1. **Caixu Xu** and RuiRui Bai. Inferring Social Ties from Multi-view Spatiotemporal Co-occurrence
